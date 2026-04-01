@@ -1,15 +1,18 @@
 <div align="center">
-  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&height=100&lines=console.log('Hello,+World!');Hi,+I'm+Sakib+Hossain+👋;Fullstack+Developer+_+;" alt="Typing effect" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Sakib%20Hossain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20|%20Angular%20|%20NestJS%20|%20Next.js&descAlignY=55&descSize=20"/>
   
-  <p><b>Crafting digital experiences with Angular, NestJS, and Next.js</b></p>
+  <br/>
+  
+  <a href="https://sakibngn.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sakib+Hossain;A+Passionate+Fullstack+Developer;Building+Scalable+Web+Applications;Mastering+Angular,+NestJS,+&+Next.js"/>
+  </a>
+</div>
 
-  <br>
-  <a href="https://sakibngn.vercel.app/"><kbd> 🌐 Portfolio </kbd></a> 
-  <a href="https://www.linkedin.com/in/sakibs97/"><kbd> 💼 LinkedIn </kbd></a> 
-  <a href="https://www.facebook.com/sakibs978/"><kbd> 📘 Facebook </kbd></a> 
-  <a href="mailto:sakibs.ngn@gmail.com"><kbd> ✉️ Email </kbd></a>
-  <br><br>
+<div align="center">
+  <a href="https://sakibngn.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/sakibs97/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/sakibs978/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="mailto:sakibs.ngn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <br/>
