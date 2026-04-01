@@ -7,7 +7,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sakib+Hossain;Fullstack+Developer;Angular+%7C+NestJS+%7C+Next.js+Developer;Building+Scalable+Web+Applications;System+Design+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sakib+Hossain;Fullstack+Developer;Angular+%7C+NestJS+%7C+Next.js+Developer;Building+Scalable+Web+Applications"/>
 </p>
 
 ---
