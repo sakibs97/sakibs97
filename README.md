@@ -1,150 +1,99 @@
-<!-- Premium Animated Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Sakib%20Hossain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20|%20Angular%20|%20NestJS%20|%20Next.js&descAlignY=55&descSize=20"/>
+  
+  <br/>
+  
+  <a href="https://sakibngn.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sakib+Hossain;A+Passionate+Fullstack+Developer;Building+Scalable+Web+Applications;Mastering+Angular,+NestJS,+&+Next.js"/>
+  </a>
+</div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=260&section=header&text=Sakib%20Hossain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20|%20Angular%20|%20NestJS%20|%20Next.js&descAlignY=55&descSize=18"/>
-</p>
+<div align="center">
+  <a href="https://sakibngn.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/sakibs97/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/sakibs978/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="mailto:sakibs.ngn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
-<!-- Typing Animation -->
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sakib+Hossain;Fullstack+Developer;Angular+%7C+NestJS+%7C+Next.js+Developer;Building+Scalable+Web+Applications"/>
-</p>
-
----
-
-# 👨‍💻 About Me
-
-🚀 Passionate **Fullstack Developer** with strong expertise in building scalable and secure web applications.  
-
-💡 Specialized in:
-
-- Modern Frontend Development  
-- Backend Architecture  
-- System Design  
-- API Development  
-- Database Schema Design  
-
-⚡ I love solving complex problems and building production-ready systems.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakibs97&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views" />
+</div>
 
 ---
 
-# 🌐 Connect With Me
+### 👨‍💻 **About Me**
+> **Transforming ideas into scalable and secure digital solutions.**
 
-<p align="center">
+I am a passionate **Fullstack Developer** focused on creating highly efficient and production-ready web applications. With a strong foundation in modern Javascript/TypeScript frameworks, I thrive in building systems from the ground up—from designing intuitive user interfaces to architecting robust backend APIs.
 
-<a href="https://sakibngn.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-black?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sakibs97/">
-<img src="https://img.shields.io/badge/LinkedIn-Sakib-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.facebook.com/sakibs978/">
-<img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook"/>
-</a>
-
-<a href="mailto:sakibs.ngn@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+* 🔭 **Currently building:** Scalable SaaS platforms & exploring microservices.
+* 🌱 **Currently learning:** Advanced System Design & Cloud Architecture.
+* ⚡ **Fun fact:** I love solving complex problems and turning coffee into code!
 
 ---
 
-# 🧠 Tech Stack
+### 🛠️ **Tech Arsenal**
 
-## 🎨 Frontend
+<div align="center">
+  
+| 🌐 Frontend | ⚙️ Backend | 🧰 Tools & Cloud |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap,redux&perline=5"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,firebase&perline=5"/> | <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman&perline=5"/> |
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,redux,angular,ts"/>
-</p>
-
----
-
-## ⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,mongodb"/>
-</p>
+</div>
 
 ---
 
-## 🧩 Tools
+### 🚀 **Featured Projects**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🌐 Developer Portfolio
-
-🔗 https://sakibngn.vercel.app/
-
-Modern developer portfolio built with modern technologies.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakibs97&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibs97&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibs97&theme=tokyonight&hide_border=true"/>
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Developer Portfolio</h3>
+      <p>My personal portfolio showcasing my journey, skills, and featured projects. Built with modern web technologies with a focus on UI/UX.</p>
+      <a href="https://sakibngn.vercel.app/"><strong>🔗 Visit Live Site</strong></a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚧 Upcoming Project</h3>
+      <p>A full-stack application featuring real-time data processing, secure authentication, and a scalable architecture.</p>
+      <em>Coming soon...</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🏆 Achievements
+### 📊 **GitHub Analytics**
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakibs97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibs97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" width="48%" />
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sakibs97&theme=algolia&no-frame=true&row=1&column=6"/>
+<br/>
 
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibs97&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff" width="100%" />
+</div>
 
----
+<br/>
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibs97&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sakibs97&label=Profile%20Views&color=blue&style=flat"/>
-
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibs97&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" />
+</div>
 
 ---
 
-# 🎯 Current Focus
+### 🏆 **Achievements & Trophies**
 
-- 🚀 Building scalable SaaS platforms  
-- ⚡ Learning advanced system design  
-- 🌐 Improving fullstack architecture  
-- 🔥 Exploring microservices  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakibs97&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%" />
+</div>
 
----
+<br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=120&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
+</div>
