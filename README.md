@@ -4,7 +4,7 @@
   <br/>
   
   <a href="https://sakibngn.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sakib+Hossain;A+Passionate+Fullstack+Developer;Building+Scalable+Web+Applications;Mastering+Angular,+NestJS,+&+Next.js"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sakib+Hossain;A+Passionate+Fullstack+Developer;Building+Scalable+Web+Applications;Angular,+NestJS,+&+Next.js"/>
   </a>
 </div>
 
