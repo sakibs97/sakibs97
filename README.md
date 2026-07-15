@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0C,100:00FF66&height=220&section=header&text=Fullstack%20Architect&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Transforming%20ideas%20into%20scalable%20%26%20secure%20digital%20solutions&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0C,100:00FF66&height=220&section=header&text=Fullstack%20Developer&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Transforming%20ideas%20into%20scalable%20%26%20secure%20digital%20solutions&descAlignY=60&descSize=15" width="100%"/>
 
 <p>
   <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -19,79 +19,74 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 **About Me**
 
 > **Transforming ideas into scalable and secure digital solutions.**
 
-I am a passionate **Fullstack Developer** focused on creating highly efficient and production-ready web applications. With a strong foundation in modern JavaScript/TypeScript frameworks, I thrive in building systems from the ground up — from designing intuitive user interfaces to architecting robust backend APIs.
+I am a passionate **Fullstack Developer** focused on creating highly efficient and production-ready web applications. With a strong foundation in modern Javascript/TypeScript frameworks, I thrive in building systems from the ground up—from designing intuitive user interfaces to architecting robust backend APIs.
 
-```yaml
-name:       "Your Name"
-role:       "Fullstack Architect"
-location:   "Earth 🌍"
-building:   "Scalable SaaS platforms & microservices"
-learning:   "Advanced System Design & Cloud Architecture"
-fun_fact:   "I turn coffee ☕ into code 💻"
-```
+- 🔭 **Currently building:** Scalable SaaS platforms & exploring microservices.
+- 🌱 **Currently learning:** Advanced System Design & Cloud Architecture.
+- ⚡ **Fun fact:** I love solving complex problems and turning coffee into code!
 
 ---
 
-## 🛠️ Tech Arsenal
+### 🛠️ **Tech Arsenal**
 
 <table align="center">
+<thead>
 <tr>
-<td valign="top" width="33%">
-
-### 🌐 Frontend
-<div align="center">
+<th align="center">🌐 Frontend</th>
+<th align="center">⚙️ Backend</th>
+<th align="center">🧰 Tools & Cloud</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-</div>
 </td>
-<td valign="top" width="33%">
-
-### ⚙️ Backend
-<div align="center">
+<td align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-</div>
 </td>
-<td valign="top" width="33%">
-
-### 🧰 Tools & Cloud
-<div align="center">
+<td align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GH%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</div>
 </td>
 </tr>
+</tbody>
 </table>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 **Featured Projects**
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Developer Portfolio
-> My personal portfolio showcasing my journey, skills, and featured projects. Built with modern web technologies with a focus on **UI/UX** and site reliability.
+#### 🌐 Developer Portfolio
+
+My personal portfolio showcasing my journey, skills, and featured projects. Built with modern web technologies with a focus on **UI/UX**.
 
 `Next.js` `TypeScript` `Tailwind` `Framer Motion`
 
@@ -100,12 +95,13 @@ fun_fact:   "I turn coffee ☕ into code 💻"
 </td>
 <td width="50%" valign="top">
 
-### 🚧 Nexus Core `[PENDING]`
-> A full-stack application featuring real-time data processing, secure authentication, and a scalable multi-tenant architecture.
+#### 🚧 Upcoming Project
+
+A full-stack application featuring real-time data processing, secure authentication, and a scalable architecture.
 
 `NestJS` `PostgreSQL` `Redis` `Docker`
 
-⏳ **`[ STATUS: IN_DEVELOPMENT ]`**
+⏳ **Coming soon...**
 
 </td>
 </tr>
@@ -113,7 +109,7 @@ fun_fact:   "I turn coffee ☕ into code 💻"
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 **GitHub Analytics**
 
 <div align="center">
 
@@ -132,7 +128,7 @@ fun_fact:   "I turn coffee ☕ into code 💻"
 
 ---
 
-## 🏆 Achievements & Trophies
+### 🏆 **Achievements & Trophies**
 
 <div align="center">
 
